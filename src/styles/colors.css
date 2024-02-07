@@ -1,5 +1,105 @@
 /* //!STARTERCONF Remove this file after copying your desired color, this is a large file you should remove it. */
 
+.theme-blue {
+  --tw-color-primary-50: 241 248 250;
+  --tw-color-primary-100: 219 236 242;
+  --tw-color-primary-200: 187 218 230;
+  --tw-color-primary-300: 140 191 212;
+  --tw-color-primary-400: 72 145 178;
+  --tw-color-primary-500: 58 127 160;
+  --tw-color-primary-600: 51 104 135;
+  --tw-color-primary-700: 47 86 111;
+  --tw-color-primary-800: 45 72 93;
+  --tw-color-primary-900: 41 62 80;
+  --tw-color-primary-950: 23 39 53;
+  --color-primary-50: rgb(var(--tw-color-primary-50));
+  --color-primary-100: rgb(var(--tw-color-primary-100));
+  --color-primary-200: rgb(var(--tw-color-primary-200));
+  --color-primary-300: rgb(var(--tw-color-primary-300));
+  --color-primary-400: rgb(var(--tw-color-primary-400)); /* #4891b2 */
+  --color-primary-500: rgb(var(--tw-color-primary-500));
+  --color-primary-600: rgb(var(--tw-color-primary-600));
+  --color-primary-700: rgb(var(--tw-color-primary-700));
+  --color-primary-800: rgb(var(--tw-color-primary-800));
+  --color-primary-900: rgb(var(--tw-color-primary-900));
+  --color-primary-950: rgb(var(--tw-color-primary-950));
+}
+
+.theme-red {
+  --tw-color-primary-50: 252 244 244;
+  --tw-color-primary-100: 249 236 234;
+  --tw-color-primary-200: 243 218 216;
+  --tw-color-primary-300: 233 187 184;
+  --tw-color-primary-400: 220 147 144;
+  --tw-color-primary-500: 203 105 104;
+  --tw-color-primary-600: 170 69 73;
+  --tw-color-primary-700: 151 57 63;
+  --tw-color-primary-800: 127 50 57;
+  --tw-color-primary-900: 110 45 53;
+  --tw-color-primary-950: 60 21 25;
+  --color-primary-50: rgb(var(--tw-color-primary-50));
+  --color-primary-100: rgb(var(--tw-color-primary-100));
+  --color-primary-200: rgb(var(--tw-color-primary-200));
+  --color-primary-300: rgb(var(--tw-color-primary-300));
+  --color-primary-400: rgb(var(--tw-color-primary-400));
+  --color-primary-500: rgb(var(--tw-color-primary-500));
+  --color-primary-600: rgb(var(--tw-color-primary-600)); /* #aa4549 */
+  --color-primary-700: rgb(var(--tw-color-primary-700));
+  --color-primary-800: rgb(var(--tw-color-primary-800));
+  --color-primary-900: rgb(var(--tw-color-primary-900));
+  --color-primary-950: rgb(var(--tw-color-primary-950));
+}
+
+.theme-brown {
+  --tw-color-primary-50: 251 248 241;
+  --tw-color-primary-100: 245 238 223;
+  --tw-color-primary-200: 237 221 196;
+  --tw-color-primary-300: 222 191 147;
+  --tw-color-primary-400: 208 158 103;
+  --tw-color-primary-500: 197 133 74;
+  --tw-color-primary-600: 184 113 62;
+  --tw-color-primary-700: 153 89 53;
+  --tw-color-primary-800: 123 72 49;
+  --tw-color-primary-900: 100 61 42;
+  --tw-color-primary-950: 53 30 21;
+  --color-primary-50: rgb(var(--tw-color-primary-50));
+  --color-primary-100: rgb(var(--tw-color-primary-100));
+  --color-primary-200: rgb(var(--tw-color-primary-200)); /* #edddc4 */
+  --color-primary-300: rgb(var(--tw-color-primary-300));
+  --color-primary-400: rgb(var(--tw-color-primary-400));
+  --color-primary-500: rgb(var(--tw-color-primary-500));
+  --color-primary-600: rgb(var(--tw-color-primary-600));
+  --color-primary-700: rgb(var(--tw-color-primary-700));
+  --color-primary-800: rgb(var(--tw-color-primary-800));
+  --color-primary-900: rgb(var(--tw-color-primary-900));
+  --color-primary-950: rgb(var(--tw-color-primary-950));
+}
+
+.theme-green {
+  --tw-color-primary-50: 244 249 248;
+  --tw-color-primary-100: 219 236 233;
+  --tw-color-primary-200: 182 217 211;
+  --tw-color-primary-300: 138 190 183;
+  --tw-color-primary-400: 107 166 160;
+  --tw-color-primary-500: 71 133 127;
+  --tw-color-primary-600: 55 106 102;
+  --tw-color-primary-700: 47 86 84;
+  --tw-color-primary-800: 41 70 69;
+  --tw-color-primary-900: 37 60 59;
+  --tw-color-primary-950: 17 34 33;
+  --color-primary-50: rgb(var(--tw-color-primary-50));
+  --color-primary-100: rgb(var(--tw-color-primary-100));
+  --color-primary-200: rgb(var(--tw-color-primary-200));
+  --color-primary-300: rgb(var(--tw-color-primary-300));
+  --color-primary-400: rgb(var(--tw-color-primary-400)); /* #6ba6a0 */
+  --color-primary-500: rgb(var(--tw-color-primary-500));
+  --color-primary-600: rgb(var(--tw-color-primary-600));
+  --color-primary-700: rgb(var(--tw-color-primary-700));
+  --color-primary-800: rgb(var(--tw-color-primary-800));
+  --color-primary-900: rgb(var(--tw-color-primary-900));
+  --color-primary-950: rgb(var(--tw-color-primary-950));
+}
+
 .slate {
   --tw-color-primary-50: 248 250 252;
   --tw-color-primary-100: 241 245 249;

@@ -24,7 +24,7 @@ import Skeleton from '@/components/Skeleton';
 
 type Color = (typeof colorList)[number];
 
-export default function ComponentsPage() {
+export default function ContactPage() {
   const [mode, setMode] = React.useState<'dark' | 'light'>('light');
   const [color, setColor] = React.useState<Color>('sky');
   function toggleMode() {
